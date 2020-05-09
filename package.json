@@ -61,7 +61,7 @@
       "shortcutName": "BeatDrop"
     },
     "directories": {
-      "buildResources": "resources"
+      "buildResources": "build"
     },
     "win": {
       "publish": {
